@@ -35,4 +35,8 @@ Who buys bikes more—men or women? Does income or age matter? How does commute 
 
 - Dashboard Intereaction <a href="https://github.com/paulmchunu69-droid/Bike-Sales-Analysis-/blob/main/Screenshot_20250905_125015_M365%20Copilot.jpg">View Dashboard</a>
 
-##Dashboard 
+## Dashboard 
+![Screenshot_20250905_125015_M365 Copilot](https://github.com/user-attachments/assets/6b942845-b794-469a-bada-d89e6e2ec686)
+
+## Conclusion
+higher income, shorter commutes, and middle age groups drive most purchases.
